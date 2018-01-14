@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collections
+title: 技术分享
 permalink: /collection/
 icon: bookmark
 type: page
